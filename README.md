@@ -1,6 +1,6 @@
 # 🫀 Predicción de Enfermedad Cardíaca (Heart Disease Prediction)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](AQUÍ_PEGA_TU_ENLACE_LARGO_DE_COLAB)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1D4A9coGt7Bf8e5nB2eKP73B89EceEHi1?usp=sharing)
 
 ### 📋 Descripción del Proyecto
 Este proyecto tiene como objetivo apoyar el triaje clínico mediante la detección temprana de pacientes con alto riesgo de enfermedad cardiovascular. Se desarrolló un modelo estadístico interpretable para identificar patrones de riesgo en variables clínicas y demográficas.
